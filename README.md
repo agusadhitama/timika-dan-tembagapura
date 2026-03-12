@@ -1,6 +1,6 @@
-# timika‑dan‑tembagapura
+# TIMIKA DAN TEMBAGAPURA
 
-Sebuah **halaman web interaktif** yang menceritakan pengalaman penjelajahan di **Timika & Tembagapura — Papua, Indonesia** oleh *Agus Satria Adhitama*.  
+Sebuah **halaman web interaktif** yang menceritakan pengalaman penjelajahan di **Timika & Tembagapura - Papua, Indonesia** oleh *Agus Satria Adhitama*.  
 Halaman ini menampilkan narasi santai, visual, musik, dan elemen interaktif untuk membagikan pengalaman, suasana alam, budaya lokal, dan vibes perjalanan yang unik.
 
 ---
